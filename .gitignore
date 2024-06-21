@@ -3,3 +3,4 @@
 
 # Ignore the requirements.txt file
 requirements.txt-e ".env\nrequirements.txt" 
+-e ".env\nrequirements.txt" 
