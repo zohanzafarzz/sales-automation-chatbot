@@ -3,3 +3,6 @@
 
 # Ignore the requirements.txt file
 requirements.txt
+
+# Ignore the virenv folder
+virenv/
